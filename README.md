@@ -2,7 +2,10 @@
 Simple script to update a directory junction on Windows 7
 
 # Usage
-uj ^<name^> ^<target^>
+```Batchfile
+uj <name> <target>
 name	 Name for the directory junction
 target   Target folder
+```
+
 
